@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: sukrity/gitops01:3eeb7398fc3ade3684fa1d9b1e06822807725e05
+          image: sukrity/gitops01:60fd17ab1817d6f45af439f20e980f256cb22525
           imagePullPolicy: Always
           ports:
             - containerPort: 80
